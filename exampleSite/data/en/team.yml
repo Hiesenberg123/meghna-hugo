@@ -10,8 +10,6 @@ team:
       designation : Chief Executive Officer
       content : IIT Kanpur| Politics and Data enthusiast| Pollster (Political as well as Non-Political)
       social :
-        - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
-          link : "https://www.facebook.com/kunala11/"
         - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
           link : "https://twitter.com/1990knl"
         - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
@@ -24,8 +22,6 @@ team:
       designation : Head of Marketing
       content : IIT Kanpur| Media and Social Media Warroom Expert| ex-Consultant
       social :
-        - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
-          link : "https://www.facebook.com/r.singh.multani"
         - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
           link : "https://twitter.com/RandeepMultani1"
         - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
