@@ -6,7 +6,7 @@ banner:
   #icon : ti-pulse  # themify icon pack : https://themify.me/themify-icons
   title : " \nPulseX "
   header : "A Public Sentiment Barometer"
-  content : "61% of world's population uses internet, 57% are active on social media. \n When internet is the primary source of recieving information and sharing opinions, \n one cannot afford to not know what it says"
+  content : "61% of world's population uses internet, 57% are active on social media. \nWhen internet is the primary source of recieving information and sharing opinions, \none cannot afford to not know what it says"
   button:
     enable : true
     label : "Explore Us"
