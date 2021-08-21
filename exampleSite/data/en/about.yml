@@ -4,13 +4,14 @@ about:
   title : About Us
   about_item :
   - icon : ti-pulse # themify icon pack : https://themify.me/themify-icons
-    title : An AI/ML and NLP based tech to scale
-    content : Content on each platform behave differently. Vernacular contents have further increased the complexity in contents. We use ML based methods to assign sentiment to contents and opinions which takes care of all complexity
+    title : Who are we?
+    content : We are a group of professionals with diverse experiences, who believe that internet is an ocean of knowledge and that knowledge is largely hidden. We believe that using advanced tools of text and audio analytics, along with proper professional discourse will help multitude of clients in improving their efficiency and effectiveness. whose potential .   Ocean needs manthan to give the 
 
   - icon : ti-cloud-down # themify icon pack : https://themify.me/themify-icons
-    title : To lag is to lose
-    content : With the growth of social media platforms and its users, web portals, digital influencers, etc, a bulk of relevant content is getting generated in digital space every second for any entity. We use cloud based services to process this data and give real time analysis
+    title : Our Mission
+    content : We conduct various level of analytic exercises to find out the common discourse, narratives and agenda running over internet. Our goal is to provide such relevant and crucial analysis driven insights to any client who are directly or indirectly impacted because of these conversations  
 
   - icon : ti-panel # themify icon pack : https://themify.me/themify-icons
-    title : When you visualize then you materialize
-    content : It is impossible to absorb and analyze the bulk of data that is being produced every minute. We use a number of visualization method and tools to process qualitative information into meaningful quantitative plots with real time updates
+    title : Our Vision
+    content : Internet in its original forrm was a one way traffic. We have moved to a two way mode conversation mode. Plethora of information need a Manthan to bbring out the nectar. Our vision is to provide such analytics services available to every stakeholder, big or small, at a reasonable and affordable cost
+    
