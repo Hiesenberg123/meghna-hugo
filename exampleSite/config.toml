@@ -37,8 +37,8 @@ name = "contact"
 url = "#contact"
 weight = 6
 [params]
-author = "Themefisher"
-description = "Responsive Multipurpose Parallax Hugo Template"
+author = "PulseX"
+description = "Public Sentiment Barometer"
 google_analytics_id = ""
 logo = "images/logo.png"
 post_share = true
