@@ -4,8 +4,7 @@ banner:
   bg_image_webp : "images/backgrounds/hero-area.webp"
   bg_image : "images/backgrounds/hero-area.jpg"
   #icon : ti-pulse  # themify icon pack : https://themify.me/themify-icons
-  title : " \nPulseX "
-  header : "A Public Sentiment Barometer"
+  title : "PulseX "
   content : "61% of world's population uses internet, 57% are active on social media. \nWhen internet is the primary source of recieving information and sharing opinions, \none cannot afford to not know what it says"
   button:
     enable : true
