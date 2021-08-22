@@ -2,8 +2,8 @@
 skill:
   enable : true
   title : Our Skills
-  subtitle : Primary and secondary research, consulting, text analytics, ML, Digital Marketing etc.
-  content : Team consists of both technical and non technical experts. We have data scientists, NLP and cloud computing experts on one hand and media-social media strategists, digital marketing experts, surveyors on the other. We have experience of conducting campaigns(digital as well as onground) and surveys, executing digital strategies, managing media and social media warrooms, etc.
+  subtitle : Primary and secondary research, Consulting, Text analytics, ML, Digital Marketing etc.
+  content : Team consists of both technical and non technical experts. We have data scientists, NLP and cloud computing experts on one hand and media-social media strategists, digital marketing experts, surveyors on the other. We have experience of conducting campaigns and surveys, executing digital strategies, managing media and social media warrooms, etc.
   image : images/about/company-growth.webp
   skill_item :
     # skill item loop
