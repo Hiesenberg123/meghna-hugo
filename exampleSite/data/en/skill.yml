@@ -15,7 +15,7 @@ skill:
       percent : 100%
       
     # skill item loop
-    - name :  Machine Learning, Natural Language Processing, Cloud Computing
+    - name :  Text Analytics, ML-NLP, Cloud Computing
       percent : 80%
       
     - name :  Campaign Planning and Management
