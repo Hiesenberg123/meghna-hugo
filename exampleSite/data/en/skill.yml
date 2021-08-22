@@ -2,12 +2,12 @@
 skill:
   enable : true
   title : Our Skills
-  subtitle : We’re skilled in wide range of text analytics, machine learning, strategising and digital market tools.
-  content : Our team consists of analysts, NLP experts, AWS practitioners, data scientists, digital marketing experts, surveyors, strategists and marketing experts. They have experience of conducting and planning campaigns (digital as well as onground), conducting surveys, executing digital strategies, managing media and social media warrooms, narrative seeding and monitoring, etc.
+  subtitle : We’re skilled in wide range of skill sets including primary and secondary research, text analytics, machine learning, consulting, digital market, etc.
+  content : Our team consists of both technical and non technical experts. We have data scientists, NLP and cloud computing experts on one hand and media and social media planners, digital marketing experts, surveyors, strategists and marketing experts on the other. We have experience of conducting and planning campaigns (digital as well as onground), conducting surveys, executing digital strategies, managing media and social media warrooms, narrative seeding and monitoring, etc.
   image : images/about/company-growth.webp
   skill_item :
     # skill item loop
-    - name :  Machine Learning, Natural Language Processing
+    - name :  Media and Social Media Warroom Management
       percent : 80%
       
     # skill item loop
@@ -15,10 +15,10 @@ skill:
       percent : 100%
       
     # skill item loop
-    - name :  Cloud Computing
+    - name :  Machine Learning, Natural Language Processing, Cloud Computing
       percent : 80%
       
-    - name :  Media and Social Media Planning
+    - name :  Campaign Planning and Management
       percent : 95%
       
     # skill item loop
