@@ -18,7 +18,7 @@ feature:
 
       # feature item loop
     - title : Vernacular and Multilingual contents
-      icon : ti-announcement # themify icon pack : https://themify.me/themify-icons
+      icon : ti-shortcode # themify icon pack : https://themify.me/themify-icons
       content : 45% of online users in India consume regional language content. Vernacular websites are growing at 56% per annum. Our models take care of the complexity of multilingual content very well
       
       # feature item loop
