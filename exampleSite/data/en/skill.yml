@@ -2,7 +2,7 @@
 skill:
   enable : true
   title : Our Skills
-  subtitle : We’re skilled in wide range of skill sets including primary and secondary research, text analytics, machine learning, consulting, digital market, etc.
+  subtitle : Primary and secondary research, consulting, text analytics, ML, Digital Marketing etc.
   content : Our team consists of both technical and non technical experts. We have data scientists, NLP and cloud computing experts on one hand and media and social media planners, digital marketing experts, surveyors, strategists and marketing experts on the other. We have experience of conducting and planning campaigns (digital as well as onground), conducting surveys, executing digital strategies, managing media and social media warrooms, narrative seeding and monitoring, etc.
   image : images/about/company-growth.webp
   skill_item :
