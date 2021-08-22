@@ -3,7 +3,7 @@ about:
   enable : true
   title : About Us
   about_item :
-  - icon : ti-pulse # themify icon pack : https://themify.me/themify-icons
+  - icon : ti-user # themify icon pack : https://themify.me/themify-icons
     title : Who are we?
     content : We are a group of professionals with diverse experiences, who believe that many information and insights on internet are largely hidden. We believe that using advanced tools of text and audio analytics, along with proper professional discourse will help multitude of clients in improving efficiency and effectiveness of their product and services
 
